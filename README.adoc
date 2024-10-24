@@ -1,0 +1,3 @@
+=Deep Learning Fundamentals 
+
+IMPORTANT: inspired by Micrograd
